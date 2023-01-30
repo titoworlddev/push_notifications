@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "355449937611",
-    "project_id": "push-notifications-flutt-b777e",
-    "storage_bucket": "push-notifications-flutt-b777e.appspot.com"
+    "project_number": "772273857731",
+    "project_id": "notificaciones-nullsafety",
+    "storage_bucket": "notificaciones-nullsafety.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:355449937611:android:7b0a5659a08709d2cb854e",
+        "mobilesdk_app_id": "1:772273857731:android:14930353979b99c3e3ae76",
         "android_client_info": {
           "package_name": "com.cristian.notificaciones_nullsafety"
         }
       },
       "oauth_client": [
         {
-          "client_id": "355449937611-7g8vl3mtvuvt5b81a9c8nr5830sncl5i.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.cristian.notificaciones_nullsafety",
-            "certificate_hash": "7994dcb5a4311311765f8534af81c7a395145131"
-          }
-        },
-        {
-          "client_id": "355449937611-0hnulbnh04td2aqj91hkmo7sosseme83.apps.googleusercontent.com",
+          "client_id": "772273857731-vr347vuf0c7hsjhuheli0ec99f2njbbe.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBjczhbbg4mWykMlh16IQG6-QpLOIsDUys"
+          "current_key": "AIzaSyDaEvJ6PcFTxOISZNVSxctA4mBM9V3kno4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "355449937611-0hnulbnh04td2aqj91hkmo7sosseme83.apps.googleusercontent.com",
+              "client_id": "772273857731-vr347vuf0c7hsjhuheli0ec99f2njbbe.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
