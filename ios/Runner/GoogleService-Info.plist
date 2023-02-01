@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.cristian.pushNotifications</string>
+	<string>com.cristian.notificaciones_nullsafety</string>
 	<key>PROJECT_ID</key>
 	<string>notificaciones-nullsafety</string>
 	<key>STORAGE_BUCKET</key>

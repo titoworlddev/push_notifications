@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '772273857731',
     projectId: 'notificaciones-nullsafety',
     storageBucket: 'notificaciones-nullsafety.appspot.com',
-    iosClientId: '772273857731-6ajs45phnahei1u1p8povoc060ksbs86.apps.googleusercontent.com',
-    iosBundleId: 'com.cristian.pushNotifications',
+    iosClientId:
+        '772273857731-6ajs45phnahei1u1p8povoc060ksbs86.apps.googleusercontent.com',
+    iosBundleId: 'com.cristian.notificaciones_nullsafety',
   );
 }
