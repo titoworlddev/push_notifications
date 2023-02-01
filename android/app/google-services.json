@@ -29,6 +29,13 @@
             {
               "client_id": "772273857731-vr347vuf0c7hsjhuheli0ec99f2njbbe.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "772273857731-6ajs45phnahei1u1p8povoc060ksbs86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cristian.pushNotifications"
+              }
             }
           ]
         }

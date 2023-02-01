@@ -55,6 +55,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '772273857731',
     projectId: 'notificaciones-nullsafety',
     storageBucket: 'notificaciones-nullsafety.appspot.com',
+    androidClientId:
+        '772273857731-vr347vuf0c7hsjhuheli0ec99f2njbbe.apps.googleusercontent.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
